@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "flask-template"
+version = "0.1.0"
+description = ""
+authors = ["Julio Perdiguer <julio.perdiguer@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
